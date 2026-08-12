@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student at [The Catholic University of Korea](https://www.catholic.ac.kr/en/index.do).
+subtitle: 
 profile:
   align: right
   image: profile_pic.jpg
@@ -21,6 +21,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Undergraduate Student at [The Catholic University of Korea](https://www.catholic.ac.kr/en/index.do).
 
 I am currently affiliated with the NS-CUK Lab as an intern. 
 
