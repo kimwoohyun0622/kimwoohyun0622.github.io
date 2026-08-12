@@ -22,7 +22,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 I am currently affiliated with the NS-CUK Lab as an intern. 
 
 My research interests include Graph Representation Learning, LLMs with Graph-Structured data, AI for Science, and the Underlying Theory of Deep Learning.
