@@ -97,24 +97,24 @@ ninja.data = [{
       },{id: "news-one-paper-under-review-at-eacl-2027",
           title: 'One paper under review at EACL 2027',
           description: "",
-          section: "News",},{id: "projects-korea-institute-of-civil-engineering-and-building-technology-kict-한국건설기술연구원",
-          title: 'Korea Institute of Civil Engineering and Building Technology (KICT) (한국건설기술연구원)',
-          description: "Automated Library Construction and Knowledge Graph Extraction from Construction Documents",
+          section: "News",},{id: "projects-llm-based-automated-library-construction-and-knowledge-graph-extraction-from-construction-documents-llm-기반-라이브러리-및-지식-그래프-추출",
+          title: 'LLM-based Automated Library Construction and Knowledge Graph Extraction from Construction Documents (LLM 기반...',
+          description: "Korea Institute of Civil Engineering and Building Technology (KICT) (한국건설기술연구원)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-petobio-페토바이오-moe-of-korea-교육부-and-gyeonggi-province-경기도",
-          title: 'Petobio (페토바이오), MOE of Korea (교육부) and Gyeonggi Province (경기도)',
-          description: "Automated Generation of Veterinary Clinical Documents through Iterative Information Retrieval and Multi-Agent Collaboration",
+            },},{id: "projects-automated-generation-of-veterinary-clinical-documents-through-iterative-information-retrieval-and-multi-agent-collaboration-반복적-검색-및-다중-에이전트-구조를-활용한-수의료-임상-문서-작성-자동화-시스템-개발",
+          title: 'Automated Generation of Veterinary Clinical Documents through Iterative Information Retrieval and Multi-Agent Collaboration...',
+          description: "Petobio (페토바이오), MOE of Korea (교육부) and Gyeonggi Province (경기도)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-petobio-페토바이오-moe-of-korea-교육부-and-gyeonggi-province-경기도",
-          title: 'Petobio (페토바이오), MOE of Korea (교육부) and Gyeonggi Province (경기도)',
-          description: "Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services (수의료 지식그래프 구축을 통한 GraphRAG 기반 수의료 LLM 서비스 개발)",
+            },},{id: "projects-constructing-veterinary-knowledge-graph-and-developing-graphrag-based-llm-services-수의료-지식그래프-구축을-통한-graphrag-기반-수의료-llm-서비스-개발",
+          title: 'Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services (수의료 지식그래프 구축을 통한...',
+          description: "Petobio (페토바이오), MOE of Korea (교육부) and Gyeonggi Province (경기도)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-shukran-korea-inc-주식회사-슈크란코리아-nrf-of-korea-한국연구재단-and-funded-by-moe-of-korea-교육부",
-          title: 'Shukran Korea Inc. (주식회사 슈크란코리아), NRF of Korea (한국연구재단) and funded by MOE...',
-          description: "Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products (지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션)",
+            },},{id: "projects-knowledge-graph-based-cross-cultural-personalized-recommendation-solution-for-korean-food-cosmetic-products-지식그래프-기반-한국-식품-화장품-글로벌-개인화-추천-솔루션",
+          title: 'Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products (지식그래프 기반 한국...',
+          description: "Shukran Korea Inc. (주식회사 슈크란코리아), NRF of Korea (한국연구재단) and funded by MOE of Korea (교육부)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
