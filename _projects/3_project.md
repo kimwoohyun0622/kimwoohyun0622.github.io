@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Petobio (페토바이오), MOE of Korea (교육부) and Gyeonggi Province (경기도)
-description: Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services (수의료 지식그래프 구축을 통한 GraphRAG 기반 수의료 LLM 서비스 개발)
+title: Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services (수의료 지식그래프 구축을 통한 GraphRAG 기반 수의료 LLM 서비스 개발)
+description:  Petobio (페토바이오), MOE of Korea (교육부) and Gyeonggi Province (경기도)
 img: assets/img/Petobio_Logo.png
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---

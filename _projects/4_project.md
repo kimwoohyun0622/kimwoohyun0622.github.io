@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shukran Korea Inc. (주식회사 슈크란코리아), NRF of Korea (한국연구재단) and funded by MOE of Korea (교육부)
-description: Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products (지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션)
+title: Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products (지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션)
+description: Shukran Korea Inc. (주식회사 슈크란코리아), NRF of Korea (한국연구재단) and funded by MOE of Korea (교육부)
 img: assets/img/Shukran_Logo.png
 importance: 3
 category: work
@@ -17,8 +17,8 @@ The model further combines relation-aware graph representations, shared and task
 
 Applications
 
-    Cross-cultural personalized recommendation for Korean food and cosmetic products
-    Modeling of cultural constraints such as Halal preferences
-    Graph-based modeling of user–product interactions
-    Multi-behavior recommendation using views, clicks, purchases, and other interactions
-    Personalized ranking based on users' underlying preference patterns
+1. Cross-cultural personalized recommendation for Korean food and cosmetic products
+2. Modeling of cultural constraints such as Halal preferences
+3. Graph-based modeling of user–product interactions
+4. Multi-behavior recommendation using views, clicks, purchases, and other interactions
+5. Personalized ranking based on users' underlying preference patterns
