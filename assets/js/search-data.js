@@ -46,13 +46,13 @@ ninja.data = [{
           },
         },{id: "post-reaction-prediction-최신-연구-분석",
         
-          title: 'Reaction Prediction 최신 연구 분석 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Reaction Prediction 최신 연구 분석",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.naver.com/kimwoohyun0622/224184230572", "_blank");
+            window.location.href = "/blog/2026/reaction-prediction-%EC%B5%9C%EC%8B%A0-%EC%97%B0%EA%B5%AC-%EB%B6%84%EC%84%9D/";
           
         },
       },{id: "post-그래프-생성을-위한-확산모델",
