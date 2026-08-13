@@ -23,7 +23,7 @@ latest_posts:
 ---
 Undergraduate Student at [The Catholic University of Korea](https://www.catholic.ac.kr/en/index.do).
 
-I am currently affiliated with the NS-CUK Lab as an intern. 
+I am currently affiliated with the [Network Science Lab (네트워크 과학 연구실실)](https://nslab-cuk.github.io/) as an intern. 
 
 My research interests include Graph Representation Learning, LLMs with Graph-Structured data, AI for Science, and the Underlying Theory of Deep Learning.
 
