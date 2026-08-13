@@ -44,7 +44,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-one-paper-under-review-at-eacl-2027",
+        },{id: "post-reaction-prediction-최신-연구-분석",
+        
+          title: 'Reaction Prediction 최신 연구 분석 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.naver.com/kimwoohyun0622/224184230572", "_blank");
+          
+        },
+      },{id: "post-그래프-생성을-위한-확산모델",
+        
+          title: "그래프 생성을 위한 확산모델",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/%ED%99%95%EC%82%B0%EB%AA%A8%EB%8D%B8%EC%9D%80-%EC%99%9C-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%83%9D%EC%84%B1-%EA%B3%BC%EC%97%85%EC%9D%84-%EC%8B%A4%ED%8C%A8%ED%96%88%EC%9D%84%EA%B9%8C-%EA%B7%9C%EC%B9%99%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/";
+          
+        },
+      },{id: "post-정보-병목-이론과-딥러닝-그래프-표현-학습습",
+        
+          title: "정보 병목 이론과 딥러닝, 그래프 표현 학습습",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ib%EB%B6%80%ED%84%B0-gib%EA%B9%8C%EC%A7%80-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%97%90-%EB%8C%80%ED%95%9C-%ED%95%B4%EC%84%9D/";
+          
+        },
+      },{id: "news-one-paper-under-review-at-eacl-2027",
           title: 'One paper under review at EACL 2027',
           description: "",
           section: "News",},{id: "projects-llm-based-automated-library-construction-and-knowledge-graph-extraction-from-construction-documents-llm-기반-라이브러리-및-지식-그래프-추출",
