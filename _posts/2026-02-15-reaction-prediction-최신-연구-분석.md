@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reaction Prediction 최신 연구 분석"
+title: "화학반응 예측을 위한 딥러닝 모델"
 date: 2026-02-15 01:42:03 +0900
 categories: blog
 ---
