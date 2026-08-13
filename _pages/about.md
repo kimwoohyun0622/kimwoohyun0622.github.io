@@ -27,4 +27,4 @@ I am currently affiliated with the [Network Science Lab (네트워크 과학 연
 
 My research interests include Graph Representation Learning, LLMs with Graph-Structured data, AI for Science, and the Underlying Theory of Deep Learning.
 
-I am interested in integrating theoretical insights with model design to solve complex problems.
+I am interested in integrating theoretical insights with model design to solve diverse problems.
