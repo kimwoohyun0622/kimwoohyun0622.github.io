@@ -3,9 +3,6 @@ layout: post
 title: "Reaction Prediction 최신 연구 분석"
 date: 2026-02-15 01:42:03 +0900
 categories: blog
-tags: [그래프, 네이버]
-external_source: 네이버 블로그
-redirect: https://blog.naver.com/kimwoohyun0622/224184230572
 ---
 
 Reaction Prediction(RP)은 두가지 이상의 분자 구조의 상호작용을 예측하는 Molecular Relational Learning(MRL)의 하위 분야로, Reaction 이전 이후의 분자들인 Reactant와 Product을 입력으로 받아 산출량이나 반응의 종류 등을 예측하는 과업이다.
