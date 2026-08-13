@@ -66,9 +66,9 @@ ninja.data = [{
             window.location.href = "/blog/2026/%ED%99%95%EC%82%B0%EB%AA%A8%EB%8D%B8%EC%9D%80-%EC%99%9C-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%83%9D%EC%84%B1-%EA%B3%BC%EC%97%85%EC%9D%84-%EC%8B%A4%ED%8C%A8%ED%96%88%EC%9D%84%EA%B9%8C-%EA%B7%9C%EC%B9%99%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0/";
           
         },
-      },{id: "post-정보-병목-이론과-딥러닝-그래프-표현-학습습",
+      },{id: "post-정보-병목-이론과-딥러닝-그래프-표현-학습",
         
-          title: "정보 병목 이론과 딥러닝, 그래프 표현 학습습",
+          title: "정보 병목 이론과 딥러닝, 그래프 표현 학습",
         
         description: "",
         section: "Posts",
